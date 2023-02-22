@@ -1,0 +1,15 @@
+.background-card {
+    background-color: #f54ef5;
+    height: 100vh;
+    color: white;
+    text-align: center;
+    font-family: "Bree Serif";
+}
+.card-container {
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    /* font-family: Times New Roman; */
+    color: black;
+}
